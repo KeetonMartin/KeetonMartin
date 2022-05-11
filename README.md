@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+## College / University
+In May 2022, I graduated from Haverford College with a Bachelor's of Science in Computer Science. I also minored in Statistics, and in Neuroscience.
+
+## Career
+In August 2022, I will start as a Software Engineer (AMTS) at Salesforce in San Francisco. I have interned there previously, in the summer of 2021 and in the summer of 2020.
+
+## Current Projects
+In the spring semester of 2022, I learned how to analyze EEG data using a popular python package called MNE. I also took a "Software Engineering" course, and for our final project my group built a web app and android app that interfaced with a Mongo database to display, submit, and approve scholarship opportunities. 
+
+One of my current side projects is building websites and other software for a project called the Auction for Afghanistan. More to come soon on that...
