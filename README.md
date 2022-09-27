@@ -25,3 +25,5 @@ In August 2022, I started as a Software Engineer (AMTS) at Salesforce in San Fra
 In the spring semester of 2022, I learned how to analyze EEG data using a popular python package called MNE. I also took a "Software Engineering" course, and for our final project my group built a web app and android app that interfaced with a Mongo database to display, submit, and approve scholarship opportunities. 
 
 One of my current side projects is building websites and other software for a project called the Auction for Afghanistan. More to come soon on that.
+
+In the summer of 2022 I started working on a simple web app that could tell them about the cheapest and biggest air carriers on their favorite city-pair flight routes. Eventually this web app will also recommend a credit card based on that route.
