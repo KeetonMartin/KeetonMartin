@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## :man_office_worker: Career
+In August 2022, I started as a Software Engineer (AMTS) at Salesforce in San Francisco. I currently work on the Automation Data Pipeline team, primarily on Flow, which is an automation product. I interned at Salesforce previously, in the summer of 2021 and in the summer of 2020.
+
 ## :mortar_board: College / Undergrad
 In May 2022, I graduated from Haverford College with a Bachelor's of Science in Computer Science. I also minored in Statistics, and in Neuroscience.
 
-## :man_office_worker: Career
-In August 2022, I started as a Software Engineer (AMTS) at Salesforce in San Francisco. I interned there previously, in the summer of 2021 and in the summer of 2020.
-
 ## :hammer_and_wrench: Current Projects
+In the summer of 2022 I started working on a simple web app that could tell them about the cheapest and biggest air carriers on their favorite city-pair flight routes. This web app also recommends a credit card based on that route. The first version of the web app was RouteCards, the newer version is Routerunner.
+
+In the spring of 2022, I helped to build websites and other software for a project called the Auction for Afghanistan.
+
 In the spring semester of 2022, I learned how to analyze EEG data using a popular python package called MNE. I also took a "Software Engineering" course, and for our final project my group built a web app and android app that interfaced with a Mongo database to display, submit, and approve scholarship opportunities. 
-
-One of my current side projects is building websites and other software for a project called the Auction for Afghanistan. More to come soon on that.
-
-In the summer of 2022 I started working on a simple web app that could tell them about the cheapest and biggest air carriers on their favorite city-pair flight routes. Eventually this web app will also recommend a credit card based on that route.
