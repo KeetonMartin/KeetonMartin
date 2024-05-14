@@ -22,6 +22,8 @@ In August 2022, I started as a Software Engineer (AMTS) at Salesforce in San Fra
 In May 2022, I graduated from Haverford College with a Bachelor's of Science in Computer Science. I also minored in Statistics, and in Neuroscience.
 
 ## :hammer_and_wrench: Current Projects
+In 2024 I've been working on election modeling for the US General Election, and I've been playing around with writing code for social deduction games and for hosting a guestbook on my apartment's network in NYC.
+
 In 2023 I worked on a Fantasy Football dashboard app that allows you to track all of your players across different fantasy leagues, and also shows insights into the landscape of each league. I also worked on a public transit app that would give you real-time updates on the bus or train at your favorite station.
 
 In the summer of 2022 I started working on a simple web app that could tell them about the cheapest and biggest air carriers on their favorite city-pair flight routes. This web app also recommends a credit card based on that route. The first version of the web app was RouteCards, the newer version is Routerunner.
