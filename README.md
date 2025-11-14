@@ -18,12 +18,17 @@ Here are some ideas to get you started:
 Check out my website to see my projects in action: [KeetonMartin.com](https://keetonmartin.com)
 
 ## :man_office_worker: Career
-In August 2022, I started as a Software Engineer (AMTS) at Salesforce in San Francisco. I currently work on the Automation Engine Core team, primarily on Flow, which is an automation product. I interned at Salesforce previously, in the summer of 2021 and in the summer of 2020. I moved to NYC, staying on my same team in October 2023. I was promoted to the MTS level in February 2024.
+
+I work as an engineer at Range.com, an AI wealth management startup. I joined the team in May 2025.
+
+In August 2022, I started as a Software Engineer (AMTS) at Salesforce in San Francisco. I worked on the Automation Engine Core team, primarily on Flow, which is an automation product. I interned at Salesforce previously, in the summer of 2021 and in the summer of 2020. I moved to NYC, staying on my same team in October 2023. I was promoted to the MTS level in February 2024.
 
 ## :mortar_board: College / Undergrad
 In May 2022, I graduated from Haverford College with a Bachelor's of Science in Computer Science. I also minored in Statistics, and in Neuroscience.
 
 ## :hammer_and_wrench: Current Projects
+In 2025 I've been working on a news dashboard and an app that tracks inbound recruiter outreach and researches companies with AI.
+
 In 2024 I've been working on election modeling for the US General Election, and I've been playing around with writing code for social deduction games and for hosting a guestbook on my apartment's network in NYC.
 
 In 2023 I worked on a Fantasy Football dashboard app that allows you to track all of your players across different fantasy leagues, and also shows insights into the landscape of each league. I also worked on a public transit app that would give you real-time updates on the bus or train at your favorite station.
