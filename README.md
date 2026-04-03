@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Check out my website to see my projects in action: [KeetonMartin.com](https://keetonmartin.com)
 
+This profile is my personal GitHub. For work-related repositories, visit my work account: [keetonatrange](https://github.com/keetonatrange).
+
 ## :man_office_worker: Career
 
 I work as an engineer at Range.com, an AI wealth management startup. I joined the team in May 2025.
