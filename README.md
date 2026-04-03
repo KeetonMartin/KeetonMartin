@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Check out my website to see my projects in action: [KeetonMartin.com](https://keetonmartin.com)
+You can also find me at [github.com/keetonatrange](https://github.com/keetonatrange).
 
 ## :man_office_worker: Career
 
